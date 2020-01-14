@@ -1,0 +1,27 @@
+_repo: Mansikoita-ja-Mustikoita-I_61117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61117'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Sananen Anni orpanalle -- Kosken-kuvia -- Tuttuni, tui! jopa kevättä
+  koittaa -- Totta puhuen -- Pohjan-piltti. Kirjoitt. Y. K -- Kettu Repolainen. Kirjoitt.
+  —kk— K -- Sukeltaja (Schiller'in mukaan). Kirjoitt. J. K -- Runebergin Puutarhahoitajan
+  kirjeet. Kirjoitt. A—n -- Suomennoksia Runebergin Runoelmista. Kirjoitt. O. B.
+title: Mansikoita ja Mustikoita I
+url: http://www.gutenberg.org/ebooks/61117
